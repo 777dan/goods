@@ -1,0 +1,72 @@
+[
+    {
+        "price": "$2.00",
+        "stocked": true,
+        "name": "Apples",
+        "imageCover": "./images/apples.jpg",
+        "description": "Crunchy and refreshing, our apples are bursting with flavor, perfect for snacking or baking your favorite desserts."
+    },
+    {
+        "price": "$1.00",
+        "stocked": true,
+        "name": "Bread",
+        "imageCover": "./images/bread.jpg",
+        "description": " Freshly baked daily, our bread is soft on the inside with a crispy crust, ideal for sandwiches or dipping into soups and sauces."
+    },
+    {
+        "price": "$3.99",
+        "stocked": false,
+        "name": "Beans",
+        "imageCover": "./images/beans.jpg",
+        "description": "Packed with protein and nutrients, our beans are a versatile addition to soups, salads, and hearty meals."
+    },
+    {
+        "price": "$7.00",
+        "stocked": true,
+        "name": "Cheese",
+        "imageCover": "./images/cheese.jpg",
+        "description": "Indulge in the rich and creamy goodness of our artisanal cheeses, perfect for pairing with crackers or adding to your favorite recipes."
+    },
+    {
+        "price": "$39.99",
+        "stocked": false,
+        "name": "Cherries",
+        "imageCover": "./images/cherries.jpg",
+        "description": "Sweet and succulent, our cherries are a delightful treat on their own or as a flavorful addition to desserts and cocktails."
+    },
+    {
+        "price": "$6.00",
+        "stocked": true,
+        "name": "Cottage cheese",
+        "imageCover": "./images/cottage-cheese.jpg",
+        "description": "Creamy and low in fat, our cottage cheese is a nutritious snack or a light addition to salads and breakfast bowls."
+    },
+    {
+        "price": "$2.50",
+        "stocked": true,
+        "name": "Cucumbers",
+        "imageCover": "./images/cucumbers.jpg",
+        "description": "Crisp and refreshing, our cucumbers are perfect for salads, sandwiches, or simply enjoyed on their own as a healthy snack."
+    },
+    {
+        "price": "$4.00",
+        "stocked": true,
+        "name": "Milk",
+        "imageCover": "./images/milk.jpg",
+        "description": "Farm-fresh and full of goodness, our milk is essential for your morning cereal, baking, or enjoying a cold glass on its own."
+    },
+    {
+        "price": "$3.99",
+        "stocked": true,
+        "name": "Pears",
+        "imageCover": "./images/pears.jpg",
+        "description": "Juicy and sweet, our pears are a delicious addition to fruit salads, desserts, or enjoyed as a healthy snack."
+    },
+    {
+        "price": "$2.99",
+        "stocked": true,
+        "name": "Tomatoes",
+        "imageCover": "./images/tomatoes.jpg",
+        "description": "Bursting with flavor, our tomatoes are great for salads, sandwiches, sauces, or adding a pop of color to any dish."
+    }
+]

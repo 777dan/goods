@@ -1,0 +1,16 @@
+* {
+    font-family: Segoe Print, sans-serif;
+}
+
+h1 {
+    padding-top: 4rem;
+    padding-bottom: 3rem;
+}
+
+.bookWrap {
+    margin-bottom: 1rem;
+}
+
+.bookWrap img {
+    width: 100%;
+}
